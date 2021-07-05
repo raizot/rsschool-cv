@@ -14,7 +14,7 @@ My _priority_ is to develop my _skills_ and _competencies_.
 I am purposeful and try to work according to my conscience.
 I learn something new every day and I hope that my skills will help people _make their lives better_.  
 
-**Skills:**
+**Skills:**  
 Html (+Pug)  
 CSS (+Sass\Scss)  
 Methodology BEM  
