@@ -1,1 +1,1 @@
-https://raizot.github.io/rsschool-cv/cv
+https://raizot.github.io/rsschool-cv/cv.md
