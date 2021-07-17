@@ -109,13 +109,20 @@ body{
 .cv-photo{
     max-width: 30%;
     min-width: 135px;
+<<<<<<< HEAD
+=======
+    height:auto;
+>>>>>>> 738d74239d99e26196d53d7191fbf2afe59b9e7e
     margin-right: 20px;
 }
 @media (max-width: 400px) {
     .cv-photo{
         display: block;
         max-width: 100%;
+<<<<<<< HEAD
         height:fit-content;
+=======
+>>>>>>> 738d74239d99e26196d53d7191fbf2afe59b9e7e
     }
 }
 .header{
