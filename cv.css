@@ -170,6 +170,7 @@ footer{
     flex-direction: row;
     justify-content: center;
     width: 15%;
+    min-width: 140px;
 }
 .footer__link {
     height: inherit;
