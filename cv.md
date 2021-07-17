@@ -33,5 +33,5 @@ Saint-Petersburg State University of Architecture and Civil Engineering
 2020  
 Faculty of automobile and road-building    
 
-**Level English:**
-A2
+**Estimated English level:**
+A1+

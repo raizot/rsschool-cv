@@ -36,7 +36,7 @@ dd {
 
 /* Выставляем основные настройки по-умолчанию для body */
 body {
-    min-height: 100vh;
+    max-height: 100vh;
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
     line-height: 1.5;
@@ -87,7 +87,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin-top: 10px;
+    padding-top: 10px;
 }
 .wrapper{
     width: 50%;
@@ -109,8 +109,21 @@ body{
 .cv-photo{
     max-width: 30%;
     min-width: 135px;
-    height:fit-content;
+<<<<<<< HEAD
+=======
+    height:auto;
+>>>>>>> 738d74239d99e26196d53d7191fbf2afe59b9e7e
     margin-right: 20px;
+}
+@media (max-width: 400px) {
+    .cv-photo{
+        display: block;
+        max-width: 100%;
+<<<<<<< HEAD
+        height:fit-content;
+=======
+>>>>>>> 738d74239d99e26196d53d7191fbf2afe59b9e7e
+    }
 }
 .header{
     display: flex;
@@ -158,10 +171,19 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: center;
-
 }
-footer > img{
-width: 100px;
+.footer-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15%;
+    min-width: 140px;
+}
+.footer__link {
+    height: inherit;
+}
+.footer__img{
+    height: auto;
 }
 .highlight-word{
     color: #fff;
