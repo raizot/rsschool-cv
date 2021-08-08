@@ -121,7 +121,7 @@ body{
     }
 }
 .header{
-    display: flex;
+    display: block;
     flex-direction: row;
     align-items: flex-start; 
     flex-wrap: wrap;
