@@ -107,6 +107,7 @@ body{
     font-family: monospace;
 }
 .cv-photo{
+    display:block;
     max-width: 30%;
     min-width: 135px;
     height: 241.5px;
