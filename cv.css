@@ -109,6 +109,7 @@ body{
 .cv-photo{
     max-width: 30%;
     min-width: 135px;
+    height: 241.5px;
     margin-right: 20px;
 }
 @media (max-width: 400px) {
